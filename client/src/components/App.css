@@ -1,0 +1,21 @@
+.message {
+  text-align: center;
+  margin: 3rem;
+}
+
+.list-group {
+  margin-top: 1em;
+}
+
+.alert {
+  margin-top: 15px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 3rem !important;
+}
+
+.hide {
+  display: hidden;
+}
